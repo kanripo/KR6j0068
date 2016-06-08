@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:25:15.671188
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:11
 #+TITLE: 蕤呬耶經
 #+PROPERTY: CBETA_ID T18n0897
 #+PROPERTY: ID KR6j0068
@@ -17,7 +17,7 @@
 大唐大興善寺開府儀同三司試鴻臚卿¶
 三藏和尚奉　詔譯¶
 
-7摩訶曼荼羅品
+* 7摩訶曼荼羅品
 :PROPERTIES:
 :head: 摩訶曼荼羅品第七
 :END:
@@ -254,7 +254,7 @@
 色界道。其處而安置。
 <pb:KR6j0068_T_002-0766c>¶
 
-8奉請供養品
+* 8奉請供養品
 :PROPERTIES:
 :head: 瞿醯經奉請供養品第八
 :END:
